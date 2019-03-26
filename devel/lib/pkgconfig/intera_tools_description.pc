@@ -1,0 +1,8 @@
+prefix=/home/lab/ros_ws/devel
+
+Name: intera_tools_description
+Description: Description of intera_tools_description
+Version: 5.1.0
+Cflags: 
+Libs: -L/home/lab/ros_ws/devel/lib 
+Requires: 

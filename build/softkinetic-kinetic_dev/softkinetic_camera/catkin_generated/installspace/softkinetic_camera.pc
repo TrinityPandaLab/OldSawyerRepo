@@ -1,0 +1,8 @@
+prefix=/home/lab/ros_ws/install
+
+Name: softkinetic_camera
+Description: Description of softkinetic_camera
+Version: 0.1.0
+Cflags: -I/home/lab/ros_ws/install/include
+Libs: -L/home/lab/ros_ws/install/lib 
+Requires: roscpp std_msgs pcl_ros cv_bridge image_transport camera_info_manager message_runtime dynamic_reconfigure

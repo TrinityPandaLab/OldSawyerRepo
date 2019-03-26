@@ -1,0 +1,8 @@
+prefix=/home/lab/ros_ws/install
+
+Name: sawyer_moveit_config
+Description: Description of sawyer_moveit_config
+Version: 5.1.0
+Cflags: 
+Libs: -L/home/lab/ros_ws/install/lib 
+Requires: 
